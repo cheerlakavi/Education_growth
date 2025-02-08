@@ -133,7 +133,7 @@ def generate_audio(text, filename):
 MYSQL_CONFIG = {
         "host": '127.0.0.1',
         "user": 'root',
-        "password": '9545883002@Sj',
+        "password": 'kavi@1234!',
         "database": 'child_learning'
     }
 
@@ -1188,7 +1188,7 @@ if st.session_state.log == 2:
             connection = mysql.connector.connect(
                 host='127.0.0.1',
                 user='root',
-                password='9545883002@Sj',
+                password='kavi@1234!',
                 database='child_learning'
             )
 
