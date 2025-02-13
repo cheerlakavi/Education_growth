@@ -1,0 +1,77 @@
+altair 
+annotated-types
+ anyio
+ attrs 
+beautifulsoup4 
+blinker
+ cachetools
+ certifi 
+charset-normalizer
+ click 
+contourpy
+ cycler
+ DateTime 
+distro
+ docopt 
+exceptiongroup
+ fonttools 
+gitdb 
+GitPython
+ groq 
+gTTS 
+h11
+ httpcore
+ httpx 
+idna
+ Jinja2
+ Js2Py
+ jsonschema
+ jsonschema-specifications
+ kiwisolver 
+markdown-it-py 
+MarkupSafe
+ matplotlib
+ mdurl
+ mysql-connector-python 
+narwhals 
+num2words
+ numpy 
+
+packaging 
+pandas 
+pillow 
+pip 
+pipwin
+ plotly 
+protobuf 
+pyarrow 
+pydantic
+ pydantic_core
+ pydeck
+ Pygments 
+pyjsparser
+ pyparsing 
+PyPrind
+ pySmartDL
+ python-dateutil
+ pytz referencing
+ requests 
+rich 
+rpds-py 
+setuptools 
+six 
+smmap 
+sniffio 
+soupsieve 
+SpeechRecognition 
+streamlit 
+tenacity 
+toml 
+tornado 
+typing_extensions
+ tzdata 
+tzlocal 
+urllib3 
+watchdog
+ wheel 
+zope.interface
