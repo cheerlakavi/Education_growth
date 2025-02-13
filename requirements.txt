@@ -54,7 +54,7 @@ pyjsparser
 PyPrind
  pySmartDL
  python-dateutil
- pytz referencing
+ pytz 
  requests 
 rich 
 rpds-py 
